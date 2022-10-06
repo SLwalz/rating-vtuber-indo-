@@ -1,2 +1,5 @@
-# rating-vtuber-indo-
-kamu akan me- rate beberapa vtuber (hololive) dan nantikan hasil akhirnya
+sebelum memulai program
+pastikan device anda sudah terinstall jdk jika menggunakan cmd
+atau
+gunakan code editor ber-ekstensi java seperrti visual code
+enjoy:)
